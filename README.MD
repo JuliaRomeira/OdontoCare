@@ -18,11 +18,12 @@ Este site foi criado com o objetivo de simular um ambiente digital para uma clí
 
 ```
 /clinica_odonto
+  ├── CSS/
+  │   ├── index.CSS
+  │   
   ├── HTML/
   │   ├── index.html
-  │   ├── Formulário.html
-  ├── CSS/
-  │   ├── index.css
+  |   ├── Formulário.html
   ├── README.md
 ```
 
